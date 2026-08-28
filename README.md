@@ -1,78 +1,108 @@
-# Hi, I'm Dias 👋
+# 👋 Hi, I'm Dias Saiynov
 
-**Mobile Engineer · Flutter & iOS**
+### Mobile Engineer · Flutter & iOS
 
-I’m a Mobile Developer with **3+ years of commercial experience** building production mobile applications with **Flutter/Dart and native iOS/Swift**.
+I build **production mobile applications** with Flutter/Dart and native iOS/Swift.
 
-My main focus is Flutter development, backed by strong native iOS experience. In my current role, I helped migrate a production iOS application from **SwiftUI to Flutter**, enabling cross-platform development for iOS and Android from a single codebase.
+I have **3+ years of commercial mobile development experience**, with a strong background in native iOS and a current focus on Flutter. I've worked on production applications across the full development lifecycle — from architecture and UI implementation to networking, authentication, testing, analytics and release.
 
-### 🛠️ Tech Stack
-
-**Flutter / Dart**
-
-* Flutter, Dart
-* Riverpod, BLoC
-* MVVM, Clean Architecture
-* Dio, GoRouter
-* GetIt / Injectable
-* Firebase
-* Unit & Widget Testing
-
-**iOS / Swift**
-
-* Swift, SwiftUI, UIKit
-* Combine, Swift Concurrency
-* MVVM, VIPER, Coordinator
-* CoreData, SwiftData
-* Networking & REST APIs
-
-**Tools & Services**
-
-* Git, GitHub
-* Xcode, Android Studio
-* Fastlane
-* Firebase
-* Postman, Swagger
-* Figma
-
-### 🚀 Featured Work
-
-**KoraTalk**
-
-Production social communication platform.
-
-* Migrated the mobile application from native iOS/SwiftUI to Flutter
-* Built and maintained 15+ feature modules
-* Implemented networking, authentication, Firebase, push notifications and deep linking
-* Developed reusable UI components and localization for EN / KZ / RU
-* Worked on architecture, production monitoring and release workflows
-
-**WalletWise**
-
-Personal finance application built with Flutter.
-
-Focused on scalable architecture, transaction management, budgeting, analytics, offline data and automated testing.
-
-**Native iOS Projects**
-
-Experience building iOS applications with Swift, SwiftUI and UIKit, including projects involving Firebase, CoreML, networking, persistence and custom UI systems.
-
-### 🧠 Engineering Interests
-
-* Mobile architecture & scalable codebases
-* Flutter performance
-* Native iOS development
-* Offline-first applications
-* Networking & data synchronization
-* Testing & CI/CD
-* Building polished, maintainable mobile products
-
-### 📫 Get in Touch
-
-* 🌐 [Portfolio](https://dias-btt.github.io)
-* 💼 [LinkedIn](https://www.linkedin.com/in/dias-saiynov-884a911a7/)
-* ✉️ [dsaiynov01@gmail.com](mailto:dsaiynov01@gmail.com)
+One of my main projects involved **migrating a production iOS application from SwiftUI to Flutter**, enabling cross-platform development for iOS and Android from a single codebase.
 
 ---
 
-*Building mobile products with Flutter, Swift, and a product-driven mindset.*
+## 🛠️ Tech Stack
+
+**Mobile**
+
+`Flutter` · `Dart` · `Swift` · `SwiftUI` · `UIKit`
+
+**Architecture & State**
+
+`MVVM` · `Clean Architecture` · `VIPER` · `Coordinator` · `BLoC` · `Riverpod`
+
+**Networking & Backend**
+
+`Dio` · `REST APIs` · `URLSession` · `Firebase` · `Firestore` · `FCM`
+
+**Data & Infrastructure**
+
+`CoreData` · `SwiftData` · `GetIt` · `Injectable` · `Fastlane`
+
+**Testing & Tools**
+
+`Unit Testing` · `Widget Testing` · `Xcode` · `Git` · `GitHub` · `Postman` · `Swagger` · `Figma`
+
+---
+
+## 🚀 Featured Work
+
+### KoraTalk — iOS → Flutter
+
+Production social communication platform.
+
+* Migrated the application from native **SwiftUI to Flutter**
+* Enabled cross-platform development for **iOS and Android**
+* Worked across **15+ feature modules**
+* Implemented networking with **Dio** and custom interceptors
+* Integrated **Firebase Auth, Firestore and FCM**
+* Built authentication flows, push notifications and deep linking
+* Implemented **EN / KZ / RU** localization
+* Built a reusable UI component system aligned with Figma designs
+* Worked with **Riverpod, MVVM, GetIt/Injectable and GoRouter**
+
+> A large part of my current engineering experience comes from working on this migration and the architecture surrounding it.
+
+### WalletWise — Personal Finance
+
+A Flutter application focused on personal finance management.
+
+**Flutter · Dart · BLoC · Clean Architecture · Dio · Supabase · Isar**
+
+The project focuses on scalable architecture, financial data management, testing and building a production-oriented mobile experience.
+
+### Native iOS
+
+Before focusing on Flutter, I worked extensively with **Swift, SwiftUI and UIKit**, building production features and independent iOS applications.
+
+Experience includes:
+
+* MVVM, VIPER and Coordinator architectures
+* Networking and persistence
+* Firebase
+* Deep linking
+* Push notifications
+* Payments
+* CoreML
+* Swift concurrency
+
+---
+
+## 🧠 What I Care About
+
+* 📱 Building polished mobile products
+* 🏗️ Designing scalable and maintainable architectures
+* ⚡ Performance and responsive UI
+* 🔄 Cross-platform development without losing native capabilities
+* 🧪 Testable and reliable code
+* 🚀 CI/CD and production delivery
+* 📐 Turning product requirements and designs into solid engineering solutions
+
+---
+
+## 📫 Let's Connect
+
+🌐 **Portfolio:** [dias-btt.github.io](https://dias-btt.github.io)
+
+💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/dias-saiynov-884a911a7/)
+
+📄 **Resume:** [View Resume](https://drive.google.com/file/d/1sUkOlXz6sXHYXCWL94cS6bs-HWc6rLAF/view?usp=sharing)
+
+✉️ **Email:** [dsaiynov01@gmail.com](mailto:dsaiynov01@gmail.com)
+
+---
+
+### Currently
+
+**Open to Mobile Engineer, Flutter and iOS opportunities.**
+
+📍 Astana, Kazakhstan · 🌍 Open to remote opportunities
